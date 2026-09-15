@@ -1,55 +1,138 @@
 # 👋 Hi, I'm Thowfik Juhair
 
-### 📬 Get in Touch
+### Software Engineer | Full-Stack Developer | Backend Enthusiast
 
-- 📧 *Email:* [thowfik.softdev@gmail.com](mailto:thowfik.softdev@gmail.com)
-- 📞 *Phone:* [+91 9514250719](tel:+919514250719)
-- 🔗 *LinkedIn:* [linkedin.com/in/thowfik-juhair/](https://linkedin.com/in/thowfik-juhair/)
-- 💻 *GitHub:* [github.com/thowfik-softdev](https://github.com/thowfik-softdev)
+I'm a Software Engineer currently working at **Hala Saudi**, building and improving real-world products and APIs. I have experience working across both frontend and backend, with a growing focus on **backend engineering, system design, APIs, and scalable applications**.
 
-## ⭐ Project Highlights That (Might) Change the World
+I enjoy solving practical engineering problems, learning how systems work under the hood, and continuously improving the way I build software.
 
-- *🌍 Travel Platform:*  
-  Crafted a booking portal so intuitive, you might actually start exploring instead of double-checking your tickets. Integrated the best travel APIs—trip planning made more adventurous and less mysterious.
+---
 
-- *🛫 Dubai Flight Org:*  
-  Built role-based dashboards where even airport security would swipe right. Admins smile, flights run on time, and approvals land faster than most planes.
+## 📬 Get in Touch
 
-- *💊 Medical E-Commerce:*  
-  Developed an admin panel robust enough to keep hackers away and efficient enough to keep health-conscious shoppers coming back. Think admin tools with the immunity of vitamin C.
+* 📧 **Email:** [thowfik.softdev@gmail.com](mailto:thowfik.softdev@gmail.com)
+* 📞 **Phone:** +91 9514250719
+* 🔗 **LinkedIn:** linkedin.com/in/thowfik-juhair/
+* 💻 **GitHub:** github.com/thowfik-softdev
 
-- *🎓 LMS Platform:*  
-  Designed an LMS so smart, even your coffee breaks become learning opportunities. Instant payments, effortless subscriptions, and zero pop quiz pop-ups—unless you’re into that.
+---
 
+## 🚀 What I Work With
 
-## 📈 GitHub Stats
+### Frontend
+
+* JavaScript
+* React.js
+* Next.js
+* Redux
+* Tailwind CSS
+
+### Backend
+
+* Node.js
+* Express.js
+* NestJS
+* REST APIs
+* GraphQL
+
+### Databases & Services
+
+* MongoDB
+* Firebase
+* Redis
+* WebSockets
+* Payment integrations
+* Third-party API integrations
+
+### Currently Learning
+
+* ☕ Java
+* 🌱 Spring Boot
+* 🏗️ System Design
+* 🧠 Data Structures & Algorithms
+* 🐳 Docker & DevOps
+* ☁️ Cloud technologies
+* 🗄️ Databases and backend architecture
+
+---
+
+## 💼 What I've Built
+
+### 🌍 Travel & Hotel Booking Platform
+
+Worked on a travel booking platform involving multiple third-party travel API providers.
+
+* Integrated hotel and travel APIs
+* Worked with different provider response structures
+* Implemented room and package-related booking flows
+* Worked on room availability and booking logic
+* Improved API handling and application performance
+* Worked on making integrations more maintainable and scalable
+
+### 🛫 Flight Management Platform
+
+Built role-based dashboards and workflows for managing flight-related operations.
+
+* Role-based access control
+* Admin dashboards
+* Approval workflows
+* API integrations
+* Data management and operational workflows
+
+---
+
+## 🧑‍💻 Current Focus
+
+I'm currently focusing more deeply on **backend engineering** and building a stronger foundation in computer science and software architecture.
+
+My current learning path includes:
+
+**Java → Spring Boot → Backend Architecture → System Design → Cloud & DevOps**
+
+At the same time, I'm continuing to strengthen my knowledge of:
+
+**DSA → OS → Networking → DBMS → Distributed Systems**
+
+My goal is to become a strong software engineer who can understand a problem from the system level and build reliable, maintainable solutions.
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=thowfik-softdev&show_icons=true&theme=tokyonight" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thowfik-softdev&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
+---
 
-## 😂 Why My Commit Timeline Is “Chill”
+## ☕ A Little About Me
 
-> Most days, my code’s getting more screen time on client projects than on GitHub. From back-to-back meetings to caffeine-powered bug hunts, my personal repo takes the scenic route. But when I push, it’s all about crystal-clear code—no messy mornings, just strong commits and even stronger filter coffee.
+I spend most of my time building software, learning new technologies, solving bugs, and trying to understand how things work behind the scenes.
 
-## 🚀 Tech Stack That Makes the Magic Happen
+My GitHub activity might not always show everything I work on because a lot of my development happens on professional and client projects. But whenever I build something here, I try to keep the code clean, practical, and easy to understand.
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/React-black?style=flat-square&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-black?style=flat-square&logo=redux&logoColor=764ABC)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=FFFFFF)
-![Node.js](https://img.shields.io/badge/Node.js-black?style=flat-square&logo=node.js&logoColor=339933)
-![Express.js](https://img.shields.io/badge/Express.js-black?style=flat-square&logo=express&logoColor=FFFFFF)
-![MongoDB](https://img.shields.io/badge/MongoDB-black?style=flat-square&logo=mongodb&logoColor=47A248)
-![REST](https://img.shields.io/badge/REST-black?style=flat-square&logo=rest&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-black?style=flat-square&logo=graphql&logoColor=E10098)
-![Stripe](https://img.shields.io/badge/Stripe-black?style=flat-square&logo=stripe&logoColor=008CDD)
-![Razorpay](https://img.shields.io/badge/Razorpay-black?style=flat-square&logo=razorpay&logoColor=02042B)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-black?style=flat-square&logo=tailwind-css&logoColor=38B2AC)
+Outside of coding, you'll usually find me with a cup of strong filter coffee and another technical topic I'm trying to figure out. 😄
 
+---
 
-Love cool ideas, quirky features, or just want to swap coding horror stories? Let’s connect! I’m all about building standout projects, collaborating with fun, smart humans, and keeping the vibes positive—recruiters, devs, or tech enthusiasts, you’re all welcome (bonus points for memes or coffee recommendations).
+## 🎯 My Goal
 
-Ready to build the next big thing or share a laugh? Drop a message!
+I'm working toward becoming a **strong backend/full-stack software engineer** and eventually taking on larger engineering challenges involving:
+
+* Scalable backend systems
+* Distributed systems
+* High-performance APIs
+* System design
+* Cloud infrastructure
+* Production-grade applications
+
+Always learning. Always building. 🚀
+
+---
+
+### 🤝 Let's Connect
+
+If you're interested in software engineering, backend development, system design, open source, or just want to talk tech, feel free to connect.
+
+**Let's build something meaningful. 🚀**
