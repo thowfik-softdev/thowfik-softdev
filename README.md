@@ -69,16 +69,6 @@ Worked on a travel booking platform involving multiple third-party travel API pr
 * Improved API handling and application performance
 * Worked on making integrations more maintainable and scalable
 
-### 🛫 Flight Management Platform
-
-Built role-based dashboards and workflows for managing flight-related operations.
-
-* Role-based access control
-* Admin dashboards
-* Approval workflows
-* API integrations
-* Data management and operational workflows
-
 ---
 
 ## 🧑‍💻 Current Focus
